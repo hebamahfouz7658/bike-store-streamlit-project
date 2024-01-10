@@ -1,6 +1,4 @@
-Certainly! Here's a basic template for a README file that you can use for your GitHub repository. Feel free to customize it according to your project's specific details:
 
-```markdown
 # Bike Store Dashboard
 
 ## Overview
